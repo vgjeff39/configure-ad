@@ -24,31 +24,43 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+1) Open Server Manager → Add Roles and Features
+2) After Installation → Promote Server to Domain Controller
+3) Set Directory Services Restore Mode Password (DSRM)
+4) Complete Prerequisite Check → Install
+5) Open Active Directory Users and Computers
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h1>Open Server Manager → Add Roles and Features</h1>
+<img width="796" height="564" alt="image" src="https://github.com/user-attachments/assets/8a980c03-3581-4c2e-884d-f136f904e224" />
+<img width="800" height="567" alt="image" src="https://github.com/user-attachments/assets/848efc66-5709-46c5-8e32-c3f7c0dd9439" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1.) Select Active Directory Domain Services
+2.) Click Add Features
+3.) Continue to Install
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2) After Installation → Promote Server to Domain Controller
+<img width="778" height="526" alt="image" src="https://github.com/user-attachments/assets/b7c66e52-935d-40a1-b09a-979d3c30892b" />
+<img width="927" height="628" alt="image" src="https://github.com/user-attachments/assets/b75d02ed-ba6b-47b5-9da0-4de4cfb2e5d2" />
+</p>
+<p>
+1.) Add a new forest
+</p>
+<br />
+
+<p>
+3) Set Directory Services Restore Mode Password (DSRM)
+During promotion you must create a recovery password.
+
+This password is used if AD needs emergency recovery.
+
+⚠️ Save it carefully.
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
