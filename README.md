@@ -132,6 +132,22 @@ User must change password at next logon.
 <p>
 <br />
 
+<p>
+<h1>5) Finish and Verify User Appears</h1>
+Click Finish
+
+The user now appears inside the OU.
+
+You should see:
+
+jsmith
+helpdesk1
+adavis
+
+inside your domain list.
+<p>
+<br />
+
 
 
 
