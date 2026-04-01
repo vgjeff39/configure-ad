@@ -24,15 +24,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+1) Open Server Manager → Add Roles and Features
+2) After Installation → Promote Server to Domain Controller
+3) Set Directory Services Restore Mode Password (DSRM)
+4) Complete Prerequisite Check → Install
+5) 5) Open Active Directory Users and Computers
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h1>1)Open Server Manager → Add Roles and Features</h1>
+<img width="796" height="564" alt="image" src="https://github.com/user-attachments/assets/341db1ca-9fbe-49dd-afc3-8b22aa6c5fd0" />
+<img width="800" height="567" alt="image" src="https://github.com/user-attachments/assets/52f96fdc-8434-4c7c-81fd-d313a2c56402" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
