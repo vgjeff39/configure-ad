@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<h1>Open Server Manager → Add Roles and Features</h1>
+<h2>Open Server Manager → Add Roles and Features</h2>
 <img width="796" height="564" alt="image" src="https://github.com/user-attachments/assets/8a980c03-3581-4c2e-884d-f136f904e224" />
 <img width="800" height="567" alt="image" src="https://github.com/user-attachments/assets/848efc66-5709-46c5-8e32-c3f7c0dd9439" />
 </p>
@@ -70,7 +70,7 @@ This password is used if AD needs emergency recovery.
 <br />
 
 <p>
-<h1>5) Open Active Directory Users and Computers</h1>
+<h2>5) Open Active Directory Users and Computers</h2>
 <img width="604" height="516" alt="image" src="https://github.com/user-attachments/assets/3e0f2ae4-3789-486b-bcb9-a35259eb1552" />
 <img width="676" height="468" alt="image" src="https://github.com/user-attachments/assets/2fb77b9e-2b8e-496f-a2c2-d4db3602f845" />
 </p>
@@ -84,7 +84,7 @@ Here you create:
 <br />
 
 <p>
-<h1>1.)Open Active Directory Users and Computers></h1>
+<h2>1.)Open Active Directory Users and Computers></h2>
 <img width="541" height="403" alt="image" src="https://github.com/user-attachments/assets/bec3dd91-888d-4447-aa0a-ab30e8341bfe" />
 <img width="796" height="564" alt="image" src="https://github.com/user-attachments/assets/4c53b2db-ddfb-462c-b949-0bd70195f2bf" />
 </p>
@@ -112,7 +112,7 @@ This opens the New User wizard.
 <p>
 
 <p>
-<h1>3) Fill in User Information</h1>
+<h2>3) Fill in User Information</h2>
 <img width="775" height="566" alt="image" src="https://github.com/user-attachments/assets/c357120b-c46c-41f3-91b1-b110e2d293e0" />
 <img width="773" height="569" alt="image" src="https://github.com/user-attachments/assets/c3ef1d51-3c1f-4593-b13c-360c94b0f99a" />
 <p>
@@ -125,7 +125,7 @@ User logon name: jsmith
 <br />
 
 <p>
-<h1>4) Set Password</h1>
+<h2>4) Set Password</h2>
 Choose a temporary password like: temporary 123
 Then check:
 User must change password at next logon. 
@@ -133,7 +133,7 @@ User must change password at next logon.
 <br />
 
 <p>
-<h1>5) Finish and Verify User Appears</h1>
+<h2>5) Finish and Verify User Appears</h2>
 Click Finish
 
 The user now appears inside the OU.
