@@ -64,6 +64,67 @@ This password is used if AD needs emergency recovery.
 </p>
 <p>
 4) Complete Prerequisite Check → Install
+<p>
 <img width="389" height="155" alt="image" src="https://github.com/user-attachments/assets/8b1e8c3d-5477-4a1a-93e6-e3968d1b2a62" />
 </p>
 <br />
+
+<p>
+<h1>5) Open Active Directory Users and Computers</h1>
+<img width="604" height="516" alt="image" src="https://github.com/user-attachments/assets/3e0f2ae4-3789-486b-bcb9-a35259eb1552" />
+<img width="676" height="468" alt="image" src="https://github.com/user-attachments/assets/2fb77b9e-2b8e-496f-a2c2-d4db3602f845" />
+</p>
+<p>
+Here you create:
+
+-Users
+-Groups
+-Organizational Units (OUs)
+</p>
+<br />
+
+<p>
+<h1>1.)Open Active Directory Users and Computers></h1>
+<img width="541" height="403" alt="image" src="https://github.com/user-attachments/assets/bec3dd91-888d-4447-aa0a-ab30e8341bfe" />
+<img width="796" height="564" alt="image" src="https://github.com/user-attachments/assets/4c53b2db-ddfb-462c-b949-0bd70195f2bf" />
+</p>
+<p>
+Go to:
+
+Server Manager → Tools → Active Directory Users and Computers
+
+You’ll see the domain tree on the left.
+</p>
+<br />
+
+<p>
+<h1>2)Choose the OU Where You Want the User</h1>
+Example:
+
+Right-click IT or Users
+
+Then:
+
+New → User
+
+This opens the New User wizard.
+</p>
+<p>
+
+<p>
+<h1>3) Fill in User Information</h1>
+<img width="775" height="566" alt="image" src="https://github.com/user-attachments/assets/c357120b-c46c-41f3-91b1-b110e2d293e0" />
+<img width="773" height="569" alt="image" src="https://github.com/user-attachments/assets/c3ef1d51-3c1f-4593-b13c-360c94b0f99a" />
+<p>
+Enter:
+
+First name: John
+Last name: Smith
+User logon name: jsmith
+</p>
+<br />
+
+
+
+
+
