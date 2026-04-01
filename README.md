@@ -45,7 +45,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-2) After Installation → Promote Server to Domain Controller
+<h2>After Installation → Promote Server to Domain Controller</h2>2) After Installation → Promote Server to Domain Controller
 <img width="778" height="526" alt="image" src="https://github.com/user-attachments/assets/b7c66e52-935d-40a1-b09a-979d3c30892b" />
 <img width="927" height="628" alt="image" src="https://github.com/user-attachments/assets/b75d02ed-ba6b-47b5-9da0-4de4cfb2e5d2" />
 </p>
@@ -55,15 +55,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-3) Set Directory Services Restore Mode Password (DSRM)
+<h2>3) Set Directory Services Restore Mode Password (DSRM)</h2>
 During promotion you must create a recovery password.
 
 This password is used if AD needs emergency recovery.
 
 ⚠️ Save it carefully.
 </p>
+
 <p>
-4) Complete Prerequisite Check → Install
+<h2>4) Complete Prerequisite Check → Install</h2>
 <p>
 <img width="389" height="155" alt="image" src="https://github.com/user-attachments/assets/8b1e8c3d-5477-4a1a-93e6-e3968d1b2a62" />
 </p>
