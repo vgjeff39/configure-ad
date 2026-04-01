@@ -24,18 +24,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Deploy Windows Server in Azure
+- Install Active Directory Domain Services
+- Promote to Domain Controller
+- Create Organizational Units (OUs)
+- Create Users and Groups
+- Configure DNS Properly
+- Create Azure Tenant / Entra ID
+- Install Azure AD Connect
+- Verify Sync
+- Enable Hybrid Identity
+- Apply Group Policy
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="796" height="564" alt="image" src="https://github.com/user-attachments/assets/6ba73b70-8bee-4707-938f-43e6ee39ad05" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1.) Select Active Directory Domain Services
+2.) Click Add Features
+3.) Continue to Install
 </p>
 <br />
 
