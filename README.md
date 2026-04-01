@@ -63,6 +63,7 @@ This password is used if AD needs emergency recovery.
 ⚠️ Save it carefully.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4) Complete Prerequisite Check → Install
+<img width="389" height="155" alt="image" src="https://github.com/user-attachments/assets/8b1e8c3d-5477-4a1a-93e6-e3968d1b2a62" />
 </p>
 <br />
