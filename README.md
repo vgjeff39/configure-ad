@@ -124,6 +124,14 @@ User logon name: jsmith
 </p>
 <br />
 
+<p>
+<h1>4) Set Password</h1>
+Choose a temporary password like: temporary 123
+Then check:
+User must change password at next logon. 
+<p>
+<br />
+
 
 
 
